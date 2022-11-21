@@ -1,0 +1,9 @@
+.navbar {
+    opacity: 50%;
+    ;
+}
+
+.baselink a :hover {
+    background-color: skyblue;
+    opacity: 0.8px;
+}

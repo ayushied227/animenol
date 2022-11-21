@@ -1,0 +1,7 @@
+home
+services(carousel)
+store(packages, supplements, clothing)
+about(about and blogs)
+contactus(social links, registration page template driven form)
+
+*************************
